@@ -26,17 +26,14 @@ I am deeply passionate about **Artificial Intelligence**, **Machine Learning**, 
 
 ## 💻 Skills
 
-### Programming Languages  
-`Python` | `Java` | `C`
-
-### Tools & Technologies  
-`VS Code` | `Git & GitHub` | `Docker` | `Canva`
-
-### Soft Skills  
-✨ Team Collaboration  
-🧩 Problem-Solving  
-🗣️ Communication  
-🎯 Adaptability
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -52,7 +49,6 @@ I am deeply passionate about **Artificial Intelligence**, **Machine Learning**, 
 
 📧 Email: taniyapundir@gmail.com  
 📍 Languages Known: Hindi & English  
-❤️ Strengths: Simplicity • Visual Clarity • Consistency
 
 ---
 

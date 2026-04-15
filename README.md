@@ -1,4 +1,4 @@
-# Taniya Pundir 👩‍💻
+# Taniya Thakur 👩‍💻
 
 🎓 **B.Tech CSE Student** | 🧠 AI/ML Enthusiast | 🌱 Green Tech Intern | 🚀 Problem Solver  
 _“Driven by curiosity. Focused on impact.”_
@@ -7,7 +7,7 @@ _“Driven by curiosity. Focused on impact.”_
 
 ## 👩‍🎓 About Me
 
-Hey there! I'm **Taniya Pundir**, currently pursuing my B.Tech in Computer Science Engineering from **Dev Bhoomi Group of Institutions, AKTU** (5th Semester).  
+Hey there! I'm **Taniya Thakur**, currently pursuing my B.Tech in Computer Science Engineering from **Dev Bhoomi Group of Institutions, AKTU** (5th Semester).  
 I am deeply passionate about **Artificial Intelligence**, **Machine Learning**, and building intelligent systems that **solve real-world problems**.
 
 ---
